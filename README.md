@@ -3,4 +3,4 @@
 1. basic dogie nft
 
 2. Mood nft
-   (i) Flip mood between happy and sad
+   1. Flip mood between happy and sad
